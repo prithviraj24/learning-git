@@ -1,0 +1,22 @@
+Git ...
+
+
+git --> software --> linus torwalds --> Linux --> Git 
+
+What Git--> VCS (git is Version control system) 
+
+Version 1(Stable) --> 
+
+Version 2 --> Include
+
+after a while... Problems..
+Report ....
+
+File mistake --> code --> Version 1 --> Git Version control 
+
+Glati se bhi change kr dia h or revert to previous chnages
+
+$ git add <file name>
+$ git add .
+$ Hello Sonali
+
